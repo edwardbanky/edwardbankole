@@ -1,4 +1,4 @@
-# MSc Artificial Intelligence — Academic Portfolio
+# MSc Artificial Intelligence — Academic Portfolio.
 
 Personal learning portfolio for Edward Bankole, MSc Artificial Intelligence student at the University of Essex.
 
