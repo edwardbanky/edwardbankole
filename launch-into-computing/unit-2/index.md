@@ -18,19 +18,22 @@ Reading
 The reading this week introduces set theory, logic, statistical probabilities and inference.
 
 
-#Unit 2 Formative Activities
+##Unit 2 Formative Activities
 Read the case study and consider the questions posed.
-Complete the logic circuit activity.
-#Case Study Activity
+
+##Complete the logic circuit activity.
+
+##Case Study Activity
 Case Study: Boolean Logic in Search Engines and Digital Advertising (2022)
 
-#Completion requirements
+##Completion requirements
 Search engines like Google and Bing rely heavily on Boolean logic to filter and rank search results. Boolean operators such as AND, OR, and NOT are used to optimize search queries, ensuring users get precise results. In digital advertising, Boolean logic plays a critical role in programmatic ad buying by matching customer preferences with advertising content.
 
 For example, in 2022, Google reported advancements in its Boolean-based algorithms that improved search accuracy by 15%, particularly in regional and specific keyword searches. Similarly, advertising platforms like Meta (formerly Facebook) use Boolean expressions to refine audience targeting, ensuring that advertisements align with user preferences and behaviours.
 
 This case study highlights the practical use of Boolean algebra in everyday technologies, showcasing its impact on user experience, marketing strategies, and business revenue.
-#Discussion Points
+
+##Discussion Points
 Consider the following in your own time.
 
 How does Boolean logic optimise search results and digital advertising?
@@ -39,11 +42,11 @@ What are the limitations of Boolean-based systems in handling complex queries?
 
 How could emerging technologies like AI and Natural Language Processing (NLP) enhance Boolean logic in search engines?
 
-#Logic Circuit Activity
+##Logic Circuit Activity
 
 Logic Circuit Design: Practical Implementation of Boolean AlgebraForum
 
-Assessment: Collaborative Learning Discussion
+##Assessment: Collaborative Learning Discussion
 Weighting: 20% | Word Count: min 4 posts | Duration: 4 weeks
 
 In this second week of your Collaborative Learning Discussion, review the requirements for weeks 2 and 3 and submit posts accordingly.
